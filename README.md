@@ -1,5 +1,7 @@
 # Trabalho de Robótica
 
 Participantes do grupo:
+
 Ana Carolina Cogo Nami. R.A.: 22.124.084-9
+
 Enzo Lima Cassin. R.A.: 22.124.083-1
